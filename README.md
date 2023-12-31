@@ -1,16 +1,5 @@
 # kotak_buku_digital
+Prototype Aplikasi Kotak Buku Digital
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi yang menyimpan data user dan data buku. Pembuatan aplikasi menggunakan Flutter dengan package GetX dan Dio.
+Karena masih prototype, masih banyak kekurangan pada aplikasi, salah satunya belum dapat terhubung dengan API sehingga package Dio masih belum diterapkan.
