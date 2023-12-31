@@ -41,8 +41,8 @@ Widget popUpMenu() {
                   child: const Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
-                      Icon(Icons.delete_forever),
-                      Text("Hapus Akun"),
+                      Icon(Icons.logout),
+                      Text("Keluar"),
                     ],
                   ),
                 )),
